@@ -1,8 +1,8 @@
-# Evaldevops
+# Evaluation Dev Ops
 
 ## Setup API account  : OK
 
-### Setup and Dockerize the fastAPI application
+### Setup and Dockerize the fastAPI application :
 
 screen shot of my outpout in the README file :
 
@@ -13,7 +13,7 @@ screen shot of my outpout in the README file :
 
 Je ne comprends pas ce qu'il faut mettre dans le fichier test.sh, ce qu'il faut faire avec la commande CURL et comment l'utiliser
 
-#### Create a developement branch and implement testing
+#### Create a developement branch and implement testing :
 
 >Je ne peux pas créer de branche dev à cause d'identifiants GitHub
 >J'ai créé le fichier test_app.py
@@ -24,6 +24,8 @@ Je ne comprends pas ce qu'il faut mettre dans le fichier test.sh, ce qu'il faut 
 >Problème pytest
 
 ![image](https://github.com/KevGithubb/Evaldevops/assets/169650162/a635f64e-f0e1-4916-a2db-3d33e0dd0100)
+
+##### Prepare the DockerHub Repository :
 
 >Configure GitHub Repository Secrets
 
