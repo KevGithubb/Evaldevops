@@ -25,3 +25,8 @@ Je ne comprends pas ce qu'il faut mettre dans le fichier test.sh, ce qu'il faut 
 
 ![image](https://github.com/KevGithubb/Evaldevops/assets/169650162/a635f64e-f0e1-4916-a2db-3d33e0dd0100)
 
+>Configure GitHub Repository Secrets
+
+![image](https://github.com/KevGithubb/Evaldevops/assets/169650162/9ec7c195-13c6-47ba-a9b5-7b5f62e643ba)
+
+
