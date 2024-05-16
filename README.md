@@ -15,8 +15,8 @@ Je ne comprends pas ce qu'il faut mettre dans le fichier test.sh, ce qu'il faut 
 
 #### Create a developement branch and implement testing :
 
->Je ne peux pas créer de branche dev à cause d'identifiants GitHub
->J'ai créé le fichier test_app.py
+>J'ai créé la branche dev
+>J'ai créé le fichier test_app.py mais je ne vois pas comment gérer la librairie
 >Problème lancement de l'application
 
 ![image](https://github.com/KevGithubb/Evaldevops/assets/169650162/0c5ca2a6-9300-49e7-a77d-c05903e3ccd5)
